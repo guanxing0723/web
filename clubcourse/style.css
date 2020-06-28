@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+
+table{
+    width: 60%;
+    margin: auto;
+    font-size: 1.5em;
+    border: 5px double #112233;
+    background-color: #ffffff
+}
+
+th{
+    border: 5px solid rgb(62, 3, 255);
+}
+
+td{
+    border-bottom: 4px dotted rgb(784, 166, 12);
+}
+
+input[type=date]{
+    font-size: 36px;
+}
+
+button{
+    font-size: 36px;
+}
